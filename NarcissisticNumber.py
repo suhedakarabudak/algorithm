@@ -13,3 +13,4 @@ if number==sum:
     print("{} narcissistics are  number. ".format(number))
 else:
     print("{} narcissistics are not number".format(number))
+    
